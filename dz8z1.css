@@ -1,0 +1,57 @@
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  width: 400px;
+}
+
+.rectangle,
+.rectangle1 {
+  height: 80px;
+  width: 150px;
+  margin: 30px 5px;
+}
+
+.rectangle,
+.radius {
+  background-color: #cdcdcd;
+}
+
+.rectangle1,
+.radius1 {
+  background-color: #008100;
+}
+
+.radius,
+.radius1 {
+  height: 80px;
+  width: 150px;
+  border-radius: 60px;
+  margin: 5px;
+}
+
+.square,
+.square1 {
+  height: 67px;
+  width: 67px;
+  background-color: white;
+  margin: 7px;
+}
+
+.square1 {
+  position: relative;
+  left: 45%;
+}
+
+.circle,
+.circle1 {
+  height: 67px;
+  width: 67px;
+  background-color: white;
+  margin: 7px;
+  border-radius: 90px;
+}
+
+.circle1 {
+  position: relative;
+  left: 45%;
+}
