@@ -1,0 +1,23 @@
+.facebook{
+    background-color: blue;
+    padding: 15px;
+    display: flex;
+}
+
+.instagram{
+    background-color: lightpink;
+    padding: 15px;
+    display: flex;
+}
+
+.twitter{
+    background-color: aquamarine;
+    padding: 15px;
+    display: flex;
+}
+
+.youtube{
+    background-color: red;
+    padding: 15px;
+    display: flex;
+}
